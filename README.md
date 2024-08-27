@@ -1,6 +1,6 @@
 # 声明：本教程只能用于教学目的，如果用于非法目的与本人无关
 
-## 视频详解地址：
+## 视频详解地址：https://www.bilibili.com/video/BV1ABsHe9Eao/
 
 ## 教程素材网址：https://github.com/tomysky/crack_20_captcha
 
