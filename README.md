@@ -1,5 +1,10 @@
 # 声明：本教程只能用于教学目的，如果用于非法目的与本人无关
 
+## 本人24个实战视频教程，2k出售，有问题可以随时问，详情联系本人
+![国内](assets/国内.jpg)
+![国外](assets/国外.jpg)
+## 试看视频 顶象空间推理.mkv 链接: https://pan.baidu.com/s/1ly-wmD5GMHpwTb2PpF8-ww?pwd=6666 提取码: 6666
+
 ## 视频详解地址：https://www.bilibili.com/video/BV1ABsHe9Eao/
 
 ## 教程素材网址：https://github.com/tomysky/crack_20_captcha
